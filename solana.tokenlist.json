@@ -1,0 +1,13 @@
+# solana.tokenlist.json
+{
+  "chainId": 101,
+  "address": "A9CgG1zX3dL8Fsip6iKxoZf1T7GpgETv5PnfwrkApMb1",
+  "symbol": "B",
+  "name": "Bunny Coins",
+  "decimals": 6,
+  "logoURI": "https://i.imgur.com/YourImageID.png",
+  "extensions": {
+    "website": "https://bunnycoins.com",
+    "twitter": "https://twitter.com/bunnycoins"
+  }
+}

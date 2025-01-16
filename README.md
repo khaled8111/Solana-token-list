@@ -1,1 +1,0 @@
-# Solana-token-list
